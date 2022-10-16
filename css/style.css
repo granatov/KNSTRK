@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #48555b;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.container {
+  max-width: 981px;
+  padding: 0 20px;
+  margin: 0 auto;
+}

@@ -1,0 +1,117 @@
+.footer {
+  background-color: #141a20;
+  color: #fff;
+}
+.footer__inner {
+  padding: 40px 0;
+}
+.footer__inner {
+  display: flex;
+  justify-content: space-between;
+}
+.footer__left {
+  max-width: 250px;
+  width: 100%;
+}
+.footer__left_top-text {
+  font-size: 11px;
+  line-height: 13px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  letter-spacing: 0.846154px;
+  margin-bottom: 19px;
+}
+.footer__left_logo {
+  margin-bottom: 15px;
+  display: block;
+}
+.footer__left_text {
+  font-size: 11px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.85px;
+}
+.footer__center_text {
+  font-size: 11px;
+  line-height: 13px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 0.846154px;
+  margin-bottom: 15px;
+}
+.footer__center_links {
+  display: flex;
+  gap: 34px;
+}
+.footer__center_item {
+  list-style: none;
+}
+.footer__center_link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 11px;
+  line-height: 25px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  transition: all 0.3s;
+  letter-spacing: 0.846154px;
+}
+.footer__center_link:hover {
+  color: #00a4e5;
+}
+.footer__right_top-text {
+  font-size: 11px;
+  line-height: 13px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 0.846154px;
+  margin-bottom: 19px;
+}
+.footer__right_inner {
+  display: flex;
+  gap: 45px;
+}
+.footer__right_address {
+  max-width: 141px;
+  width: 100%;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0.846154px;
+}
+.footer__right_location {
+  margin-bottom: 20px;
+}
+.footer__right_phone {
+  margin-bottom: 20px;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s;
+}
+.footer__right_phone:hover {
+  color: #00a4e5;
+  text-decoration: underline;
+}
+.footer__right_mail {
+  text-decoration: none;
+  color: inherit;
+}
+.footer__right_mail:hover {
+  color: #00a4e5;
+  text-decoration: underline;
+}
+.footer__right_icons_link + .footer__right_icons_link {
+  margin-left: 15px;
+}
+
+.copyright {
+  background-color: #171819;
+  color: #fff;
+}
+.copyright__inner {
+  padding: 22px 0px;
+  text-align: center;
+}
