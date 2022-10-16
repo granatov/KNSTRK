@@ -66,13 +66,13 @@
   gap: 20px;
 }
 .story__items .item_1 {
-  background-image: url(/images/one.jpg);
+  background-image: url(../images/one.jpg);
 }
 .story__items .item_2 {
-  background-image: url(/images/two.jpg);
+  background-image: url(../images/two.jpg);
 }
 .story__items .item_3 {
-  background-image: url(/images/three.jpg);
+  background-image: url(../images/three.jpg);
 }
 .story .story__item {
   width: 140px;
@@ -162,7 +162,7 @@
 }
 
 .city {
-  background-image: url(/images/city_bg.jpg);
+  background-image: url(../images/city_bg.jpg);
   background-repeat: no-repeat;
   background-size: inherit;
   background-position: 0px 1px;
