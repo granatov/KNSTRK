@@ -63,13 +63,13 @@
     gap: 20px;
 
     .item_1 {
-      background-image: url(/images/one.jpg);
+      background-image: url(../images/one.jpg);
     }
     .item_2 {
-      background-image: url(/images/two.jpg);
+      background-image: url(../images/two.jpg);
     }
     .item_3 {
-      background-image: url(/images/three.jpg);
+      background-image: url(../images/three.jpg);
     }
   }
   .story__item {
@@ -161,7 +161,7 @@
   }
 }
 .city {
-  background-image: url(/images/city_bg.jpg);
+  background-image: url(../images/city_bg.jpg);
   background-repeat: no-repeat;
   background-size: inherit;
   background-position: 0px 1px;
