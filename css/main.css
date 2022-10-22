@@ -234,10 +234,11 @@
 .sub__button {
   max-width: 150px;
   width: 100%;
-  height: 40px;
+  height: 39px;
   background-color: #00a4e5;
   border: none;
   padding: 11px;
+  margin-left: -2px;
   color: #ffffff;
   text-transform: uppercase;
   font-size: 13px;
@@ -281,4 +282,5 @@
   display: flex;
   max-width: 400px;
   width: 100%;
+  align-items: center;
 }
