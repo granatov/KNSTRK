@@ -1,1 +1,1 @@
-# KNSTRK
+https://granatov.github.io/KNSTRK/
